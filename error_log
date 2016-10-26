@@ -1,0 +1,23 @@
+[24-Aug-2016 04:51:26 UTC] PHP Warning:  include(koneksi/koneksi.php): failed to open stream: No such file or directory in /home/bimbelwi/public_html/download/materiupload.php on line 3
+[24-Aug-2016 04:51:26 UTC] PHP Warning:  include(koneksi/koneksi.php): failed to open stream: No such file or directory in /home/bimbelwi/public_html/download/materiupload.php on line 3
+[24-Aug-2016 04:51:26 UTC] PHP Warning:  include(): Failed opening 'koneksi/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bimbelwi/public_html/download/materiupload.php on line 3
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bimbelwi/public_html/koneksi.php on line 23
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  imagecreatefromjpeg(): 'foto/siswa.png' is not a valid JPEG file in /home/bimbelwi/public_html/koneksi.php on line 23
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/koneksi.php on line 24
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/koneksi.php on line 25
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  Division by zero in /home/bimbelwi/public_html/koneksi.php on line 30
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/bimbelwi/public_html/koneksi.php on line 33
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/koneksi.php on line 34
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/koneksi.php on line 37
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/koneksi.php on line 40
+[01-Sep-2016 16:23:19 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/koneksi.php on line 41
+[01-Sep-2016 16:25:11 UTC] PHP Warning:  unlink(foto/_s_siswa.png): No such file or directory in /home/bimbelwi/public_html/galeri_form.php on line 53
+[10-Sep-2016 18:56:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/set.php on line 16
+[25-Sep-2016 16:32:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/set.php on line 16
+[25-Sep-2016 16:32:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/set.php on line 16
+[25-Sep-2016 16:32:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/set.php on line 16
+[25-Sep-2016 16:32:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/set.php on line 16
+[25-Sep-2016 16:33:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/set.php on line 16
+[25-Sep-2016 16:33:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/set.php on line 16
+[25-Sep-2016 16:33:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/set.php on line 16
+[25-Sep-2016 16:33:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/set.php on line 16

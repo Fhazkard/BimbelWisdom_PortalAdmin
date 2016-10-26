@@ -1,0 +1,25 @@
+[24-Aug-2016 05:39:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 68
+[24-Aug-2016 06:17:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 68
+[29-Aug-2016 12:15:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 68
+[29-Aug-2016 12:25:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 68
+[02-Sep-2016 05:53:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 68
+[02-Sep-2016 06:15:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 68
+[02-Sep-2016 06:24:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 68
+[02-Sep-2016 06:27:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 9
+[02-Sep-2016 06:29:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 9
+[02-Sep-2016 06:30:12 UTC] PHP Parse error:  syntax error, unexpected 'align' (T_STRING) in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 67
+[02-Sep-2016 06:30:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 73
+[02-Sep-2016 06:33:19 UTC] PHP Parse error:  syntax error, unexpected 'align' (T_STRING) in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 68
+[02-Sep-2016 06:34:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 73
+[02-Sep-2016 06:34:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 73
+[02-Sep-2016 06:37:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_nilai.php on line 14
+[24-Oct-2016 10:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_kelas.php on line 7
+[24-Oct-2016 10:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_kelas.php on line 11
+[24-Oct-2016 10:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_kelas.php on line 41
+[24-Oct-2016 10:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_jadwal.php on line 6
+[24-Oct-2016 10:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_jadwal.php on line 12
+[24-Oct-2016 10:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_jadwal.php on line 16
+[24-Oct-2016 10:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/lihat_jadwal.php on line 52
+[24-Oct-2016 10:13:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/statistik.php on line 7
+[24-Oct-2016 10:13:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/stat.php on line 26
+[24-Oct-2016 10:13:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/siswa/stat.php on line 26

@@ -1,0 +1,7 @@
+[24-Aug-2016 05:23:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/login/login.php on line 11
+[24-Aug-2016 05:23:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bimbelwi/public_html/portal/akademik/login/login.php:11) in /home/bimbelwi/public_html/portal/akademik/login/login.php on line 29
+[24-Aug-2016 05:23:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelwi/public_html/portal/akademik/login/login.php:11) in /home/bimbelwi/public_html/portal/akademik/login/login.php on line 33
+[24-Oct-2016 09:36:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/login/login.php on line 9
+[24-Oct-2016 09:36:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/login/login.php on line 13
+[24-Oct-2016 09:36:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/login/login.php on line 9
+[24-Oct-2016 09:36:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bimbelwi/public_html/portal/akademik/login/login.php on line 13
