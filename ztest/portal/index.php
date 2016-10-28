@@ -1,64 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php include"../header.php";?>
-    <style>
-            body {
-        padding-top: 40px;
-        padding-bottom: 40px;
-        background-color: #eee;
-            }
-      .form-signin {
-        max-width: 330px;
-        padding: 15px;
-        margin: 0 auto;
-      }
-      .form-signin .form-signin-heading,
-      .form-signin .checkbox {
-        margin-bottom: 10px;
-      }
-      .form-signin .checkbox {
-        font-weight: normal;
-      }
-      .form-signin .form-control {
-        position: relative;
-        height: auto;
-        -webkit-box-sizing: border-box;
-          -moz-box-sizing: border-box;
-                box-sizing: border-box;
-        padding: 10px;
-        font-size: 16px;
-      }
-      .form-signin .form-control:focus {
-        z-index: 2;
-      }
-      .form-signin input[type="text"] {
-        margin-bottom: -1px;
-        border-bottom-right-radius: 0;
-        border-bottom-left-radius: 0;
-      }
-      .form-signin input[type="password"] {
-        margin-bottom: 10px;
-        border-top-left-radius: 0;
-        border-top-right-radius: 0;
-      }
 
-    </style>
-    <body>
-    <div class="container">
-      <form class="form-signin" method="post" action="../../portal/admin/ceklogin.php">
-        <h2 class="form-signin-heading">Please sign in</h2>
-        <label for="inputEmail" class="sr-only">Username</label>
-        <input type="text" id="username" class="form-control" placeholder="Username" name="x_username" required autofocus>
-        <label for="inputPassword" class="sr-only">Password</label>
-        <input type="password" id="Password" class="form-control" placeholder="Password" name="x_password" required>
-        <div class="checkbox">
-          <label>
-            <input type="checkbox" value="remember-me"> Remember me
-          </label>
-        </div>
-        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-      </form>
-	</div>
-      <?php include"../footer.php";?>
-    </body>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Meta, title, CSS, favicons, etc. -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Portal!</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="../content/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../content/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../content/css/animate.min.css" rel="stylesheet">
+  <!-- Custom styling plus plugins -->
+  <link href="../content/css/custom.css" rel="stylesheet">
+  <script src="../content/js/jquery.min.js"></script>
+</head>
+
+<body style="background:#F7F7F7;">
+
+    <div id="wrapper">
+      <div id="login" class="animate form">
+        <section class="login_content">
+          <form>
+            <h1>Login Form</h1>
+            <div>
+              <input type="text" class="form-control" placeholder="Username" required autofocus />
+            </div>
+            <div>
+              <input type="password" class="form-control" placeholder="Password" required />
+            </div>
+            <div>
+              <input type="submit" class="btn btn-sucsess" />
+            </div>
+			<br />
+            <div class="clearfix"></div>
+            <div class="separator">
+              <div class="clearfix"></div>
+              <br />
+              <div>
+                <h1><i class="fa fa-paw" style="font-size: 26px;"></i> Bimbel Wisdom!</h1>
+                <p>©2016 All Rights Reserved. Bimbel Wisdom Batam</p>
+              </div>
+            </div>
+          </form>
+          <!-- form -->
+        </section>
+        <!-- content -->
+      </div>
+    </div>
+
+</body>
+
 </html>
