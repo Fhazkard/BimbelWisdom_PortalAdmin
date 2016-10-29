@@ -48,11 +48,11 @@ $(document).pngFix( );
 		<form name="form" method="post" action="ceklogin.php">
 		<tr>
 			<th>Username</th>
-			<td><input type="text"  class="login-inp" name="username" /></td>
+			<td><input type="text"  class="login-inp" name="x_username" /></td>
 		</tr>
 		<tr>
 			<th>Password</th>
-			<td><input type="password" name="password" onfocus="this.value=''" class="login-inp" /></td>
+			<td><input type="password" name="x_password" onfocus="this.value=''" class="login-inp" /></td>
 		</tr>
 		<tr>
 			<th></th>

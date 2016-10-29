@@ -6,16 +6,21 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Portal</title>
+  <title>Portal Login</title>
 
   <!-- CSS -->
-  <?php include "../header.php";?>
+  <link href="../content/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../content/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../content/css/animate.min.css" rel="stylesheet">
+  <!-- Custom styling plus plugins -->
+  <link href="../content/css/custom.css" rel="stylesheet">  
+  <script src="../content/js/jquery.min.js"></script>
 </head>
 
 <body style="background:#F7F7F7;">
 
     <div id="wrapper">
-      <div id="login" class="animate form">
+      <div id="login" class="animated bounceInDown form">
         <section class="login_content">
           <form>
             <h1>Login Form</h1>
@@ -36,8 +41,8 @@
             <div class="clearfix"></div>
             <br />
             <div>
-                <h1><i class="fa fa-paw" style="font-size: 26px;"></i> Bimbel Wisdom</h1>
-                <p>©2016 All Rights Reserved. Bimbel Wisdom Batam.</p>
+                <h1><i class="fa fa-paw" style="font-size: 26px;"></i> Bimbel Wisdom Batam</h1>
+                <p>©2016 Created By <a href="https://Fhazkard.com"><strong>Fhazkard</strong></a></p>
             </div>
             </div>
           </form>

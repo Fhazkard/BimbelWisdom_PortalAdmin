@@ -46,6 +46,6 @@ session_start();
 header("location:index.php");
 
 }else{
-echo "<script>alert('Login gagal!'); document.location.href=\"login.php\"</script>";
+//echo "<script>alert('Login gagal!'); document.location.href=\"login.php\"</script>";
 }
 ?>
